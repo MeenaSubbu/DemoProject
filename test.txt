@@ -1,0 +1,7 @@
+C:\Users\meenasubbu\Documents\2.Nagarro\2.Project\R23-Deliverables\Model Bank\MB.R23.ORACLE19.3.UNIX.TAFJR23.30-SEP-2024.dmp.tar\MB.R23.ORACLE19.3.UNIX.TAFJR23.30-SEP-2024.dmp\MB.R23.ORACLE19.3.UNIX.TAFJR23.30-SEP-2024.dmp
+
+
+SELECT username, account_status FROM dba_users WHERE username = 't24dev';
+
+
+imp C##t24user/password123@r23MBDB file=MB.R23.ORACLE19.3.UNIX.TAFJR23.30-SEP-2024.dmp
