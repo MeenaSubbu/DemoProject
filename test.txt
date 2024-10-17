@@ -3,5 +3,7 @@ C:\Users\meenasubbu\Documents\2.Nagarro\2.Project\R23-Deliverables\Model Bank\MB
 
 SELECT username, account_status FROM dba_users WHERE username = 't24dev';
 
+in testbranch
+
 
 
